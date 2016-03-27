@@ -3,7 +3,7 @@
 <channel name="xfce4-panel" version="1.0">
   <property name="panels" type="uint" value="1">
     <property name="panel-0" type="empty">
-      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="position" type="string" value="p=8;x=683;y=755"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="size" type="uint" value="24"/>
@@ -48,6 +48,7 @@
     </property>
     <property name="plugin-7" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="1"/>
     </property>
     <property name="plugin-8" type="string" value="whiskermenu"/>
     <property name="plugin-5" type="string" value="clock"/>

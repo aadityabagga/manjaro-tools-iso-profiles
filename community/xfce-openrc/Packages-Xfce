@@ -7,6 +7,8 @@ dconf
 desktop-file-utils
 tmpwatch		# cleaning /tmp
 ps_mem			# memory usage
+>openrc cronjobs
+manjaro-browser-settings
 
 ## Previously in Packages
 gptfdisk
@@ -64,7 +66,7 @@ xfce4-xkb-plugin
 xfce4-mixer
 
 ## Base packages
-tlp-pmu			# TLP
+#tlp-pmu			# TLP  (AUR)
 light-locker-consolekit	# light-locker
 
 ## Basic Apps
@@ -106,6 +108,7 @@ xfburn
 thunar-volman		# for usb auto-mounting
 gvfs-mtp		# for mounting smartphones
 dconf-editor		# for viewing dconf settings (light-locker, mousepad, etc)
+vim
 
 ## Services
 cups-openrc
@@ -116,7 +119,9 @@ json-c			# for syslog-ng
 ## Artwork, icons
 manjaro-artwork
 menda-themes
+menda-themes-dark
 maia-xfce-icon-theme
+elementary-icon-theme
 xcursor-vanilla-dmz-aa
 gnome-themes-standard	# general theme
 xfce-theme-greenbird

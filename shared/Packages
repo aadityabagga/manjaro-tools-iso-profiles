@@ -136,8 +136,6 @@ wireless_tools
 >openrc wpa_supplicant-openrc
 >systemd wpa_supplicant
 zd1211-firmware
->openrc perl-mail-sendmail
-
 
 ## Power management
 >openrc acpid-openrc
@@ -149,7 +147,7 @@ zd1211-firmware
 ## ucode for new cpus
 intel-ucode
 
-## bmenu
-bmenu
-brandr
-mhwd-tui
+## bmenu profiles should add it if required -> issue 119
+#bmenu
+#brandr
+#mhwd-tui
