@@ -65,7 +65,7 @@
 			</item>
 			<item label="Root Terminal">
 				<action name="Execute">
-					<execute>gksu -l gnome-terminal</execute>
+					<execute>gksudo -l xfce4-terminal</execute>
 				</action>
 			</item>
 			<item label="Run Program...">
