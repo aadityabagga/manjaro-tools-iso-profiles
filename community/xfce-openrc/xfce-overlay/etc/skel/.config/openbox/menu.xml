@@ -282,7 +282,7 @@
 			</item>
 			<item label="Htop">
 				<action name="Execute">
-					<execute>xterm -e 'htop'</execute>
+					<execute>xfce4-terminal -e 'htop'</execute>
 				</action>
 			</item>
 			<item label="Manage Printing">
