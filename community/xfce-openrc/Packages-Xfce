@@ -109,6 +109,7 @@ thunar-volman		# for usb auto-mounting
 gvfs-mtp		# for mounting smartphones
 dconf-editor		# for viewing dconf settings (light-locker, mousepad, etc)
 vim
+git
 
 ## Services
 cups-openrc
@@ -118,15 +119,13 @@ json-c			# for syslog-ng
 
 ## Artwork, icons
 manjaro-artwork
-menda-themes
-menda-themes-dark
+gnome-themes-standard	# general theme
+vertex-maia-themes
+xfce-theme-greenbird
 maia-xfce-icon-theme
 elementary-icon-theme
 xcursor-vanilla-dmz
 xcursor-vanilla-dmz-aa
-gnome-themes-standard	# general theme
-xfce-theme-greenbird
-numix-manjaro-themes
 
 ## AUR Access
 autoconf
