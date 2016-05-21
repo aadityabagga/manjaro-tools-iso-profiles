@@ -37,7 +37,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>greenbird-openbox</name>
+    <name>maia-openbox</name>
     <titleLayout>LIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -248,26 +248,30 @@
       <action name="DirectionalCycleWindows"/>
     </keybind>
     <keybind key="W-Left">
-        <action name="UnmaximizeFull"/>
-        <action name="MaximizeVert"/>
-        <action name="MoveResizeTo">
-            <width>50%</width>
-        </action>
-        <action name="MoveToEdge"><direction>west</direction></action>
+      <action name="UnmaximizeFull"/>
+      <action name="MaximizeVert"/>
+      <action name="MoveResizeTo">
+        <width>50%</width>
+      </action>
+      <action name="MoveToEdge">
+        <direction>west</direction>
+      </action>
     </keybind>
     <keybind key="W-Right">
-        <action name="UnmaximizeFull"/>
-        <action name="MaximizeVert"/>
-        <action name="MoveResizeTo">
-            <width>50%</width>
-        </action>
-        <action name="MoveToEdge"><direction>east</direction></action>
+      <action name="UnmaximizeFull"/>
+      <action name="MaximizeVert"/>
+      <action name="MoveResizeTo">
+        <width>50%</width>
+      </action>
+      <action name="MoveToEdge">
+        <direction>east</direction>
+      </action>
     </keybind>
     <keybind key="W-Down">
-        <action name="Unmaximize"/>
+      <action name="Unmaximize"/>
     </keybind>
     <keybind key="W-Up">
-        <action name="Maximize"/>
+      <action name="Maximize"/>
     </keybind>
     <keybind key="W-x">
       <action name="Execute">

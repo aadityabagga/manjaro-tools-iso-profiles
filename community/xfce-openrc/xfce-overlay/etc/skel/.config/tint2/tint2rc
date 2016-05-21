@@ -16,12 +16,12 @@ border_color_pressed = #1a1a1a 80
 # Background 2: Active task, Urgent task
 rounded = 2
 border_width = 0
-background_color = #8cbc65 90
-border_color = #8cbc65 90
-background_color_hover = #8cbc65 90
-border_color_hover = #8cbc65 90
-background_color_pressed = #8cbc65 90
-border_color_pressed = #8cbc65 90
+background_color = #57AA99 90
+border_color = #57AA99 90
+background_color_hover = #57AA99 90
+border_color_hover = #57AA99 90
+background_color_pressed = #57AA99 90
+border_color_pressed = #57AA99 90
 
 #-------------------------------------
 # Panel
@@ -77,8 +77,8 @@ task_padding = 6 3 6
 task_font = Droid Sans 10
 task_tooltip = 1
 task_font_color = #d7d7d7 100
-task_active_font_color = #1e1e1e 100
-task_urgent_font_color = #1e1e1e 100
+task_active_font_color = #000000 100
+task_urgent_font_color = #000000 100
 task_iconified_font_color = #d7d7d7 100
 task_icon_asb = 100 0 0
 task_active_icon_asb = 100 0 0
