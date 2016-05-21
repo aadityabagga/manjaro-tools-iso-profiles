@@ -19,4 +19,4 @@ show-command-logout=true
 command-menueditor=menulibre
 show-command-menueditor=true
 command-profile=mugshot
-show-command-profile=true
+show-command-profile=false

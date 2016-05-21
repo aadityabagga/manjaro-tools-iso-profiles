@@ -95,7 +95,7 @@ tumbler			# for thumbnails
 catfish			# for thunar search
 downgrade
 menulibre
-mugshot
+#mugshot
 hexchat
 timeset-gui		# MSM time module does not work with OpenRC
 parole
@@ -121,9 +121,7 @@ json-c			# for syslog-ng
 manjaro-artwork
 gnome-themes-standard	# general theme
 vertex-maia-themes
-xfce-theme-greenbird
 maia-xfce-icon-theme
-elementary-icon-theme
 xcursor-vanilla-dmz
 xcursor-vanilla-dmz-aa
 
