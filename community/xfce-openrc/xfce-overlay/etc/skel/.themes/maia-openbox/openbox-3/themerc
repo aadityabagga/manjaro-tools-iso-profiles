@@ -14,18 +14,18 @@ padding.width:  2
 padding.height: 2
 
 menu.border.width: 1
-menu.border.color: #979797
+menu.border.color: #454947
 menu.overlap.x: -1
 menu.overlap.y: 0
 
 menu.items.font: shadow=n
 menu.items.bg:                  Solid Flat
-menu.items.bg.color:            #DEDEDE
-menu.items.text.color:          #2F2F2F
+menu.items.bg.color:            #EFEFEF
+menu.items.text.color:          #3c3e3c
 menu.items.disabled.text.color: #5e5e5e
 
 menu.items.active.bg:                  Solid Flat
-menu.items.active.bg.color:            #9BC264
+menu.items.active.bg.color:            #16a085
 menu.items.active.text.color:          #F9FAF9
 menu.items.active.disabled.text.color: #ffffff
 
@@ -35,7 +35,7 @@ menu.title.text.color:   #3c3e3c
 menu.title.text.justify: Center
 menu.title.text.font:    shadow=n
 
-menu.separator.color:          #979797
+menu.separator.color:          #969696
 menu.separator.width:          1
 menu.separator.padding.width:  10
 menu.separator.padding.height: 5
