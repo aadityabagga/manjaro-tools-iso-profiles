@@ -110,6 +110,7 @@ gvfs-mtp		# for mounting smartphones
 dconf-editor		# for viewing dconf settings (light-locker, mousepad, etc)
 vim
 git
+gvfs-gphoto2		# For devices that use PTP like digital cameras
 
 ## Services
 cups-openrc
