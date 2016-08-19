@@ -1,0 +1,81 @@
+
+######################################################
+### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
+######################################################
+
+## deepin packages
+#deepin-gtk-theme
+deepin-social-sharing
+nautilus-empty-file
+
+## deepin-extra packages
+deepin-screenshot
+deepin-terminal
+# workaround launcher-bug https://github.com/linuxdeepin/dde-launcher/issues/5
+gnome-terminal
+
+## other deepin Packages
+chromium
+dconf-editor
+downgrade
+evince
+deepin-trash
+galculator
+gksu
+gnome-vfs
+gthumb
+gvfs-afc
+gvfs-gphoto2
+gvfs-mtp # for mounting Samsung phones
+gvfs-smb
+hexchat
+htop
+libimobiledevice
+manjaro-browser-settings
+manjaro-deepin-settings
+manjaro-settings-manager
+manjaro-welcome
+mlocate
+mousepad
+plymouth-theme-manjaro-deepin-circle
+polkit-gnome
+screenfetch
+smplayer
+sushi
+gufw # firewall
+xarchiver
+
+## Network
+netctl
+networkmanager
+networkmanager-dispatcher-ntpd
+networkmanager-openconnect
+networkmanager-openvpn
+networkmanager-pptp
+networkmanager-vpnc
+openresolv
+syslog-ng
+
+## Packages for Sound and Audio
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gstreamer0.10-bad-plugins
+gstreamer0.10-base-plugins
+gstreamer0.10-good-plugins
+gstreamer0.10-ugly-plugins
+libdvdcss
+manjaro-alsa
+manjaro-pulse
+pulseaudio-bluetooth
+pulseaudio-ctl
+pulseaudio-zeroconf
+
+## additional artwork
+vertex-maia-themes
+vertex-maia-icon-theme
+
+## Package management
+pamac

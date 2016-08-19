@@ -1,0 +1,55 @@
+######################################################
+### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
+######################################################
+
+###lxqt###
+lxqt
+
+>openrc networkmanager-openrc
+>openrc networkmanager-consolekit
+>systemd networkmanager
+>openrc syslog-ng-openrc
+>systemd syslog-ng
+>openrc cronjobs
+
+###apps###
+qterminal
+qupzilla
+octopi
+octopi-notifier-qt5
+octopi-cachecleaner
+octopi-repoeditor
+qpdfview
+compton
+
+# bug in pcmanfm with kde apps
+#kwrite
+
+l3afpad
+xarchiver
+network-manager-applet
+lxtask-gtk3
+gvfs
+
+###DisplayManager###
+>openrc sddm-consolekit
+>systemd sddm
+
+###Openbox###
+openbox
+obmenu-generator
+feh
+openbox-themes
+tint2
+
+###Artwork###
+#cantarell-fonts
+xcursor-breeze
+maia-icon-theme
+maia-wallpaper
+vertex-maia-themes
+
+manjaro-settings-manager
+manjaro-documentation
+
+manjaro-lxqt-minimal-settings

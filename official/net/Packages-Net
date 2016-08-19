@@ -1,0 +1,34 @@
+######################################################
+### THIS FILE WILL INCLUDE shared/Packages-Desktop ###
+######################################################
+
+## Basic packages
+dconf
+desktop-file-utils
+
+## Packages for Sound and Audio
+alsa-lib
+alsa-utils
+alsa-plugins
+>multilib manjaro-alsa
+
+## Artwork
+manjaro-artwork
+
+## Base Packages
+gtk2
+
+## Network
+netctl
+networkmanager
+networkmanager-dispatcher-ntpd
+openresolv
+
+## Image mounting assistant
+open-fuse-iso-term
+
+
+## bmenu profiles should add it if required
+bmenu
+brandr
+mhwd-tui
