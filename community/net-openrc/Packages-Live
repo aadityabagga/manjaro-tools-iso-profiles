@@ -1,0 +1,5 @@
+>openrc manjaro-live-openrc
+>systemd manjaro-live-systemd
+manjaro-cli-installer
+manjaro-live-skel		# live skel
+calamares			# new GUI installer of manjaro
