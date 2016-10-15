@@ -32,7 +32,12 @@ manjaro-alsa
 manjaro-pulse
 phonon-qt5-gstreamer
 phonon-qt4-gstreamer
+pyqt5-common # For hplip
+python-pillow # For hplip
+python-pip # For hplip
 python-pyqt4  # For pulseaudio gui
+python-pyqt5  # For hplip gui
+python-reportlab # For hplip
 pulseaudio-bluetooth
 pulseaudio-ctl
 pulseaudio-zeroconf
