@@ -111,6 +111,7 @@ dconf-editor		# for viewing dconf settings (light-locker, mousepad, etc)
 vim
 git
 gvfs-gphoto2		# For devices that use PTP like digital cameras
+hardinfo		# graphical system info
 
 ## Services
 cups-openrc
@@ -124,7 +125,7 @@ gnome-themes-standard	# general theme
 vertex-maia-themes
 xfce-theme-greenbird
 maia-xfce-icon-theme
-elementary-icon-theme
+elementary-xfce-icons
 xcursor-vanilla-dmz
 xcursor-vanilla-dmz-aa
 

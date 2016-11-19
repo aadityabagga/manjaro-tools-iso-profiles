@@ -295,6 +295,11 @@
 					<execute>pamac-updater</execute>
 				</action>
 			</item>
+			<item label="System Profiler and Benchmark">
+				<action name="Execute">
+					<execute>hardinfo></execute>
+				</action>
+			</item>
 			<item label="Task Manager">
 				<action name="Execute">
 					<execute>xfce4-taskmanager</execute>

@@ -1,11 +1,3 @@
-## ManjaroBox Conky Configuration Script
-##
-## Written by Carl Duff & Ugo Yak
-## Modified by Aaditya Bagga (aaditya_gnulinux@zoho.com)
-##
-## Website: www.manjaro.org - Forum: http://forum.manjaro.org/
-##
-
 #  Basic Settings
 
 background yes
@@ -37,9 +29,8 @@ uppercase no
 cpu_avg_samples 2
 override_utf8_locale yes
 
-##
-## ManjaroBox Conky Display
-##
+# Conky Display
+
 TEXT
 ${font sans:bold:size=18}${alignr}${color #35BF5C}${time %e} ${color #BEBEBE}${time %B}${color #35BF5C} ${time %Y}${color #BEBEBE}
 ${alignr}${time %l:%M}${font sans:bold:size=15}${time %p}${voffset -8}
