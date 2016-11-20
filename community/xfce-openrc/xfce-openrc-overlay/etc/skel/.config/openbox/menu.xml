@@ -297,7 +297,7 @@
 			</item>
 			<item label="System Profiler and Benchmark">
 				<action name="Execute">
-					<execute>hardinfo></execute>
+					<execute>hardinfo</execute>
 				</action>
 			</item>
 			<item label="Task Manager">
