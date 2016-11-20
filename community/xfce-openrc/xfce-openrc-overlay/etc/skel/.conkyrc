@@ -3,13 +3,13 @@
 background yes
 use_xft yes
 xftfont sans:size=11
-xftalpha 1
+#xftalpha 1
 update_interval 1.0
 total_run_times 0
 own_window yes
 own_window_transparent yes
-#own_window_type desktop
-own_window_type override
+own_window_type desktop
+#own_window_type override
 own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
 double_buffer yes
 minimum_size 300 1
