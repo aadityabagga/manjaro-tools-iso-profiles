@@ -75,10 +75,10 @@ lightdm
 lightdm-gtk-greeter
 qpdfview
 xarchiver
-thunar			# file manager
 firefox			# web browser
+thunar			# file manager
+ristretto		# image viewer
 mousepad		# text editor
-viewnior		# image viewer
 gparted
 galculator
 
