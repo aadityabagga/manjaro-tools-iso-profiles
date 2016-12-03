@@ -4,4 +4,5 @@ manjaro-live-skel		# live skel
 #calamares			# new GUI installer of manjaro
 calamares-dev			# new GUI installer of manjaro - kpmcore
 #calamares-exp			# new GUI installer of manjaro - experimental version
+>x86_64 manjaro-efi-utils
 
