@@ -3,4 +3,3 @@
 #manjaro-cli-installer		# doesnt seem to work with manjaro-tools anymore
 manjaro-live-skel		# live skel
 calamares			# new GUI installer of manjaro
->x86_64 manjaro-efi-utils

@@ -102,6 +102,7 @@ zip
 ## Efi support (only x86_64)
 >x86_64 efitools
 >x86_64 refind-efi
+>x86_64 manjaro-efi-utils
 
 ## Storage and filesystem
 btrfs-progs
