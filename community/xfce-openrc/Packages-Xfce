@@ -63,11 +63,8 @@ xfce4-power-manager
 xfce4-whiskermenu-plugin
 xfce4-clipman-plugin
 xfce4-xkb-plugin
-#xfce4-mixer
-xfce4-pulseaudio-plugin
 
 ## Base packages
-#tlp-pmu			# TLP  (AUR)
 light-locker-consolekit	# light-locker
 
 ## Basic Apps
@@ -114,9 +111,6 @@ git
 gvfs-gphoto2		# For devices that use PTP like digital cameras
 hardinfo		# graphical system info
 ffmpegthumbnailer	# video thumbnails in thunar
-pulseaudio		# sound does not seem to work ootb without it on broadwell
-pulseaudio-alsa
-pavucontrol
 
 ## Services
 cups-openrc
