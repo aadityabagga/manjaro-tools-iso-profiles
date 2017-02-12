@@ -19,8 +19,6 @@ manjaro-documentation
 vi
 
 ## Audio Packages
->openrc alsa-utils-openrc
->systemd alsa-utils
 alsa-plugins
 
 ## Network and bluetooth
