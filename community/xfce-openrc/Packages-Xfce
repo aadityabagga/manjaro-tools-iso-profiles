@@ -63,7 +63,7 @@ xfce4-clipman-plugin
 xfce4-xkb-plugin
 
 ## Base packages
-light-locker-consolekit	# light-locker
+#light-locker-consolekit	# light-locker
 
 ## Basic Apps
 lightdm
@@ -118,6 +118,7 @@ json-c			# for syslog-ng
 
 ## Artwork, icons
 manjaro-artwork
+breath-wallpaper
 gnome-themes-standard	# general theme
 vertex-maia-themes
 xfce-theme-greenbird
@@ -125,6 +126,7 @@ maia-xfce-icon-theme
 elementary-xfce-icons
 xcursor-vanilla-dmz
 xcursor-vanilla-dmz-aa
+xcursor-breeze
 
 ## AUR Access
 autoconf
