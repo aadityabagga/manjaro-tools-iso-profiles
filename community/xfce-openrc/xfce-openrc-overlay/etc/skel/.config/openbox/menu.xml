@@ -208,6 +208,11 @@
 					<execute>thunar-settings</execute>
 				</action>
 			</item>
+			<item label="LightDM GTK+ Greeter settings">
+				<action name="Execute">
+					<execute>lightdm-gtk-greeter-settings-pkexec</execute>
+				</action>
+			</item>
 			<item label="Manjaro Settings Manager">
 				<action name="Execute">
 					<execute>manjaro-settings-manager -style=gtk</execute>
