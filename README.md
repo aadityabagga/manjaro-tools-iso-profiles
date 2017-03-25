@@ -43,9 +43,6 @@ manjaro-tools-iso-profiles
 # configure calamares for netinstall
 # netinstall="false"
 
-# the default url for the netinstall.yaml
-# netgroups="https://raw.githubusercontent.com/manjaro/manjaro-tools-iso-profiles/master/shared/netinstall"
-
 # configure calamares to use chrootcfg instead of unpackfs
 # chrootcfg="false"
 
@@ -62,7 +59,7 @@ manjaro-tools-iso-profiles
 
 # unset defaults to given values,
 # names must match openrc service names
-# enable_openrc=('acpid' 'bluetooth' 'consolekit' 'cronie' 'cupsd' 'dbus' 'syslog-ng' 'NetworkManager')
+# enable_openrc=('acpid' 'bluetooth' 'elogind' 'cronie' 'cupsd' 'dbus' 'syslog-ng' 'NetworkManager')
 # disable_openrc=()
 
 # unset defaults to given values

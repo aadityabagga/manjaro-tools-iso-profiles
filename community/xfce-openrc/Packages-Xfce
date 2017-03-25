@@ -22,8 +22,7 @@ vi
 alsa-plugins
 
 ## Network and bluetooth
-#openresolv-openrc	# AUR
-networkmanager-consolekit
+networkmanager
 networkmanager-openrc
 network-manager-applet
 networkmanager-openvpn
@@ -64,6 +63,7 @@ xfce4-xkb-plugin
 
 ## Base packages
 #light-locker-consolekit	# light-locker
+>openrc accountsservice-elogind
 
 ## Basic Apps
 lightdm
@@ -81,7 +81,7 @@ galculator
 gconf			# qt-theme fix
 gnome-keyring		# wlan segfault fix, networkmanager
 gvfs			# to fix trash in thunar
-udisks2			# removable disk management
+>openrc udisks2-elogind	# removable disk management
 manjaro-settings-manager
 pamac
 gksu			# required for octopi
@@ -109,6 +109,7 @@ git
 gvfs-gphoto2		# For devices that use PTP like digital cameras
 hardinfo		# graphical system info
 ffmpegthumbnailer	# video thumbnails in thunar
+lightdm-gtk-greeter-settings
 
 ## Services
 cups-openrc

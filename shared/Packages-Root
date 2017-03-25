@@ -6,6 +6,7 @@ coreutils
 >systemd cronie
 >openrc cryptsetup-openrc
 >systemd cryptsetup
+>openrc dbus-elogind
 >openrc dbus-openrc
 >openrc device-mapper-openrc
 >systemd device-mapper
@@ -46,7 +47,8 @@ pacman
 pciutils
 pcmciautils
 perl
-procps-ng
+>systemd procps-ng
+>openrc procps-ng-elogind
 psmisc
 reiserfsprogs
 s-nail
@@ -60,7 +62,8 @@ sysfsutils
 tar
 texinfo
 usbutils
-util-linux
+>systemd util-linux
+>openrc util-linux-nosystemd
 which
 xfsprogs
 
@@ -138,6 +141,7 @@ usb_modeswitch
 wireless_tools
 >openrc wpa_supplicant-openrc
 >systemd wpa_supplicant
+>openrc libusb-nosystemd
 zd1211-firmware
 
 ## Power management
